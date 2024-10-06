@@ -19,7 +19,7 @@ At the intersection of biology and data science, I am passionate about transform
 ### 2. 🎮 Stone-Paper-Scissors Game Using R
 - **Description**: A fun project where I built an interactive stone-paper-scissors game in R.
 - **Tools**: R (conditional statements, user inputs)
-- **[Repository Link](https://github.com/username/stone-paper-scissors)**
+- **[Repository Link](https://github.com/Sasivarman06/Project/tree/5885b5ca69b63789fedbee5122ce5ad26f1cfa36/stone-paper-scissor)**
 
 ## 📫 Contact
 - ✉️ Email: sasivarman06@gmail.com
